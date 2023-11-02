@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)]
+[MasterHead](https://blog.communicationcrafts.com/wp-content/uploads/sites/2/2023/02/Everything-worth-knowing-about-Full-Stack-Development_banner.png)
 <h1 align="center">Hi :wave:, I'm Adeel khalid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
